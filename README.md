@@ -19,4 +19,4 @@ This project uses Jupyter Notebooks and the following libraries:
 * Collections
 * time
 
-By navigating to the "final_project.ipynb" file in the "Project" folder, you can try running the same code or tweaking it to come up with a new model entirely. Enjoy!
+By navigating to the "final_project.ipynb" file in the "Project" folder, you can try running the same code or tweaking it to come up with a new model entirely. You can also find my final report summarizing my results and what I found. Enjoy!
